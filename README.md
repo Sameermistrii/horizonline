@@ -6,9 +6,7 @@ Built by Sameer Mistri (solo, Delhi Local Event) for the NASA Space Apps Challen
 **Demo Video:** 
 
 
-https://github.com/user-attachments/assets/4562a60c-04f4-4eaa-92c9-4120325e6eb7
-
-
+https://github.com/user-attachments/assets/cda03c21-7932-426a-9022-5f4465e3accd
 
 
 
