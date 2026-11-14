@@ -3,6 +3,15 @@
 Compare lunar south-pole landing sites and dates by sunlight and direct-to-Earth visibility.
 Built by Sameer Mistri (solo, Delhi Local Event) for the NASA Space Apps Challenge 2026, **Lunar Landing Site Navigator**.
 
+**Demo Video:** 
+
+
+https://github.com/user-attachments/assets/4562a60c-04f4-4eaa-92c9-4120325e6eb7
+
+
+
+
+
 **Live app:** https://sameermistrii.github.io/horizonline/app/
 
 - `app/` - the web app (static HTML + D3). Open it via any static server or GitHub Pages.
