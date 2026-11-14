@@ -1,0 +1,98 @@
+{
+ "_note": "Artemis III candidate regions (NASA, Oct 2024). Region boxes from USGS LGRS grids (doi:10.5066/P1MEQ6UK); site = highest LOLA point inside each box. height_m = mast height above ground.",
+ "sites": [
+  {
+   "id": "mouton",
+   "name": "Mons Mouton",
+   "lat": -85.4036,
+   "lon": 31.6812,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "nobile-1",
+   "name": "Nobile Rim 1",
+   "lat": -85.2313,
+   "lon": 36.5862,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "nobile-2",
+   "name": "Nobile Rim 2",
+   "lat": -84.0827,
+   "lon": 54.8713,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "malapert",
+   "name": "Malapert Massif",
+   "lat": -85.9886,
+   "lon": 2.0657,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "degerlache-2",
+   "name": "de Gerlache Rim 2",
+   "lat": -88.643,
+   "lon": -68.4275,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "cabeus-b",
+   "name": "Peak near Cabeus B",
+   "lat": -83.5814,
+   "lon": -68.4425,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "slater",
+   "name": "Slater Plain",
+   "lat": -87.2554,
+   "lon": 127.5956,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "haworth",
+   "name": "Haworth",
+   "lat": -86.3635,
+   "lon": -23.226,
+   "height_m": 2,
+   "group": "Artemis III candidate region (NASA, 2024)"
+  },
+  {
+   "id": "im2",
+   "name": "IM-2 Athena target",
+   "lat": -84.78,
+   "lon": 29.13,
+   "height_m": 2,
+   "group": "Commercial mission (CLPS)",
+   "source": "LROC: intended IM-2 landing site, -84.78, 29.13E"
+  },
+  {
+   "id": "chandrayaan3",
+   "name": "Chandrayaan-3",
+   "lat": -69.37,
+   "lon": 32.32,
+   "height_m": 2,
+   "group": "Other lunar programs",
+   "source": "USGS Gazetteer: Statio Shiv Shakti, -69.37, 32.32E",
+   "flat": true
+  },
+  {
+   "id": "apollo11",
+   "name": "Apollo 11",
+   "lat": 0.67416,
+   "lon": 23.47314,
+   "height_m": 2,
+   "group": "Apollo (for comparison)",
+   "source": "NASA NSSDC: Apollo 11 LM, 0.67416N 23.47314E",
+   "flat": true
+  }
+ ]
+}
